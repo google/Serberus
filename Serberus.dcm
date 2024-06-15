@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7365-18
+D Fixed 6V 1.8V 600mA SOT25 Low Dropout Regulators(LDO) RoHS
+$ENDCMP
+#
+$CMP AP7365-33
+D Fixed 6V 3.3V 600mA SOT25 Low Dropout Regulators(LDO) RoHS
+$ENDCMP
+#
+$CMP SW_DP4T
+D Switch, dual pole four throw
+K switch dual-pole four-throw dp4t ON-ON-ON-ON
+F ~
+$ENDCMP
+#
+$CMP SW_DPDT
+D Switch, dual pole double throw
+K switch dual-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP VREF
+D Power symbol creates a global label with name "VREF"
+K power-flag
+$ENDCMP
+#
+$CMP VREG
+D Power symbol creates a global label with name "VREG"
+K power-flag
+$ENDCMP
+#
+$CMP VTARGET
+D Power symbol creates a global label with name "VTARGET"
+K power-flag
+$ENDCMP
+#
+#End Doc Library

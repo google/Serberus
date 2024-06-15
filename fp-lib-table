@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Serberus")(type "KiCad")(uri "${KIPRJMOD}/Serberus.pretty")(options "")(descr ""))
+)
