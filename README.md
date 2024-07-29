@@ -12,6 +12,7 @@
 </p>
 
 # OVERVIEW
+- Note: This is not an officially supported Google product
 - The Serberus is a serial Man-in-the-Middle hardware hacking tool
 - It has 4 channels, based on the FTDI 4233
 - Has the ability to connect to JTAG, SPI, I2C and SWD interfaces
